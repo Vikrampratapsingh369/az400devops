@@ -1,0 +1,2 @@
+install git ubuntu server
+  apt-get update -y
