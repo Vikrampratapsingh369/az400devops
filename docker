@@ -1,1 +1,3 @@
 What is docker and why it is use
+docker ps
+docker ps -a
